@@ -43,7 +43,7 @@ ReconX Complete is a powerful reconnaissance tool designed to gather intelligenc
 
 2. **Clone or download the repository**:
    ```cmd
-   git clone https://github.com/your-repo/reconx-complete.git
+   git clone https://github.com/Aditya02-S/Reconx
    cd reconx-complete
    ```
 
@@ -271,4 +271,5 @@ Dipti Bhangde [front-end developer]
 **Author**: Security Research Team
 
 **Version**: 6.0.0
+
 
