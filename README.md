@@ -265,11 +265,12 @@ Manas Dabhane  [front-end developer]
 [https://github.com/manas1020]
 Sanika Gongale [back-end developer]
 [https://github.com/SanikaG31]
-Dipti Bhangde [front-end developer]
+Dipti Bangde  [front-end developer]
 [https://github.com/diptibangde10]
 ---
 **Author**: Security Research Team
 
 **Version**: 6.0.0
+
 
 
