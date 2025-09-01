@@ -1,0 +1,5 @@
+requests
+pandas
+reportlab
+beautifulsoup4
+openpyxl
