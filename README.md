@@ -1,4 +1,4 @@
-# Reconx
+# ReconX Complete
 
 **ReconX Complete v6.0.0** - A comprehensive Python-only reconnaissance tool for security research and penetration testing.
 
