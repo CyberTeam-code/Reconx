@@ -259,18 +259,19 @@ ReconX Complete is intended for educational and authorized security research pur
 - **v5.x**: Previous versions with external tool dependencies
 
 ## contributions:
-Aditya Sadamwar [back-end Developer]
+- Aditya Sadamwar [back-end Developer]
 [https://github.com/Aditya02-S/Reconx]
-Manas Dabhane  [front-end developer]
+- Manas Dabhane  [front-end developer]
 [https://github.com/manas1020]
-Sanika Gongale [back-end developer]
+- Sanika Gongale [back-end developer]
 [https://github.com/SanikaG31]
-Dipti Bangde  [front-end developer]
+- Dipti Bangde  [front-end developer]
 [https://github.com/diptibangde10]
 ---
 **Author**: Security Research Team
 
 **Version**: 6.0.0
+
 
 
 
